@@ -12,6 +12,7 @@
 ---
 
 >The form available at the end of the webpage is completely functional.
+
 >ALthough, I used an API of [formsubmit.co](https://formsubmit.co/) to achieve that functionality.
 
 ---
